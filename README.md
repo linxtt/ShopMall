@@ -1,2 +1,2 @@
 # ShopMall
-一个用JSP与Servlet编写的简易购物商城
+一个用JSP与Servlet编写的简易购物商城，前端界面的一些UI用到bootstrap
